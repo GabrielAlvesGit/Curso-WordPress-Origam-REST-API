@@ -30,10 +30,12 @@ $ O arquivo dever ser colocado/up ao WP local
 </pre>
 
 $ Usei essa API para fazer os teste.Json
-![image](https://github.com/user-attachments/assets/d2396fca-dc48-4d5b-83a1-ef24a3c77cae)
+![image](https://github.com/user-attachments/assets/e4ac4fb8-6db6-4867-911e-66d6d980343b)
+
 
 
 ## 💻 Layout
 
-![image](https://github.com/user-attachments/assets/72f3cbc9-a845-4151-a5e3-6c1e953ad13b)
+![image](https://github.com/user-attachments/assets/f4a2ecdf-c2ef-4303-a720-b922e4078f3a)
+
 
