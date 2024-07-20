@@ -1,12 +1,4 @@
-<h1 align="center" >
-  <img src="./img/handel.svg" width="200" height="200"  >
-</h1>
-
 # REST API - Curso Origamid
-
-<h1 align="center">
-  <a href="https://handell-gabriel.wuaze.com/">website view <img src="./img/icons/iconAcimaDireitaBlue.png" alt="Imagem/Icone seta a direita blue" style="width: 20px; height: 20px; margin-left: 5px;"></a>
-</h1>
 
 ## 📖 Descrição
 
@@ -37,6 +29,11 @@ $ WP Local
 $ O arquivo dever ser colocado/up ao WP local
 </pre>
 
+$ Usei essa API para fazer os teste.Json
+![image](https://github.com/user-attachments/assets/d2396fca-dc48-4d5b-83a1-ef24a3c77cae)
+
+
 ## 💻 Layout
 
+![image](https://github.com/user-attachments/assets/72f3cbc9-a845-4151-a5e3-6c1e953ad13b)
 
